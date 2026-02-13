@@ -1,0 +1,10 @@
+# Ignore los archivos de entorno y caché de Python
+.env
+.venv
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
